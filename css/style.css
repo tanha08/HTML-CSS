@@ -1,0 +1,48 @@
+*{
+     padding: 0;
+    margin: 0; 
+    box-sizing: border-box;
+    background-color: black;
+    color: darkorange;
+
+}
+
+.hero{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding-top: 30px;
+}
+ .hero1{
+padding-top: 50px;
+} 
+.hero-img img{
+    height: 250px;
+    width: 250px;
+}
+.about{
+    padding-bottom: 50px;
+    padding-left: 80px;
+    padding-right: 50px;
+}
+.skill{
+    padding-left: 80px;
+}
+.project{
+    padding-bottom: 20px;
+    padding-top: 30px;
+    padding-left: 80px;
+}
+
+
+
+.main-card{
+    display: flex;
+    justify-content: space-around;
+
+}
+.contact-me{
+    padding-top: 30px;
+    padding-left: 80px;
+    padding-bottom: 30px;
+}
